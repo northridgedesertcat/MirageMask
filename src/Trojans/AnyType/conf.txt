@@ -1,0 +1,5 @@
+dfile=C:/Users/北岭荒漠猫/Pictures/Screenshots/屏幕截图 2025-02-28 104805.png
+type=exe
+ico=C:/Users/北岭荒漠猫/Pictures/Screenshots/屏幕截图 2025-02-28 104805.png
+name=111
+vfile=D:/tools/ProgrammeTools/python/正规项目/Incognito/dist/client.exe
